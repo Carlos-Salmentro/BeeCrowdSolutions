@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Bee2152")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Bee1021")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Bee2152")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Bee2152")]
+[assembly: System.Reflection.AssemblyProductAttribute("Bee1021")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Bee1021")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

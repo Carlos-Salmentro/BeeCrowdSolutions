@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d815619\\Desktop\\VisualStudio\\BeeCrowd\\Bee2152\\Bee2152\\Bee2152.csproj": {}
+    "C:\\Users\\d815619\\Desktop\\VisualStudio\\BeeCrowd\\Bee1021\\Bee1021\\Bee1021\\Bee1021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d815619\\Desktop\\VisualStudio\\BeeCrowd\\Bee2152\\Bee2152\\Bee2152.csproj": {
+    "C:\\Users\\d815619\\Desktop\\VisualStudio\\BeeCrowd\\Bee1021\\Bee1021\\Bee1021\\Bee1021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d815619\\Desktop\\VisualStudio\\BeeCrowd\\Bee2152\\Bee2152\\Bee2152.csproj",
-        "projectName": "Bee2152",
-        "projectPath": "C:\\Users\\d815619\\Desktop\\VisualStudio\\BeeCrowd\\Bee2152\\Bee2152\\Bee2152.csproj",
+        "projectUniqueName": "C:\\Users\\d815619\\Desktop\\VisualStudio\\BeeCrowd\\Bee1021\\Bee1021\\Bee1021\\Bee1021.csproj",
+        "projectName": "Bee1021",
+        "projectPath": "C:\\Users\\d815619\\Desktop\\VisualStudio\\BeeCrowd\\Bee1021\\Bee1021\\Bee1021\\Bee1021.csproj",
         "packagesPath": "C:\\Users\\d815619\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d815619\\Desktop\\VisualStudio\\BeeCrowd\\Bee2152\\Bee2152\\obj\\",
+        "outputPath": "C:\\Users\\d815619\\Desktop\\VisualStudio\\BeeCrowd\\Bee1021\\Bee1021\\Bee1021\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
