@@ -1,0 +1,15 @@
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\obj\Debug\net6.0\Bee2234.csproj.AssemblyReference.cache
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\obj\Debug\net6.0\Bee2234.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\obj\Debug\net6.0\Bee2234.AssemblyInfoInputs.cache
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\obj\Debug\net6.0\Bee2234.AssemblyInfo.cs
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\obj\Debug\net6.0\Bee2234.csproj.CoreCompileInputs.cache
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\bin\Debug\net6.0\Bee2234.exe
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\bin\Debug\net6.0\Bee2234.deps.json
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\bin\Debug\net6.0\Bee2234.runtimeconfig.json
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\bin\Debug\net6.0\Bee2234.dll
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\bin\Debug\net6.0\Bee2234.pdb
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\obj\Debug\net6.0\Bee2234.dll
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\obj\Debug\net6.0\refint\Bee2234.dll
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\obj\Debug\net6.0\Bee2234.pdb
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\obj\Debug\net6.0\Bee2234.genruntimeconfig.cache
+C:\Users\d815619\Desktop\VisualStudio\BeeCrowd\Bee2234\Bee2234\Bee2234\obj\Debug\net6.0\ref\Bee2234.dll
