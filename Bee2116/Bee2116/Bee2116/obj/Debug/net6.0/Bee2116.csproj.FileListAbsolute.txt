@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\obj\Debug\net6.0\Bee2116.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\obj\Debug\net6.0\Bee2116.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\obj\Debug\net6.0\Bee2116.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\obj\Debug\net6.0\Bee2116.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\obj\Debug\net6.0\Bee2116.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\bin\Debug\net6.0\Bee2116.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\bin\Debug\net6.0\Bee2116.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\bin\Debug\net6.0\Bee2116.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\bin\Debug\net6.0\Bee2116.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\bin\Debug\net6.0\Bee2116.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\obj\Debug\net6.0\Bee2116.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\obj\Debug\net6.0\refint\Bee2116.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\obj\Debug\net6.0\Bee2116.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\obj\Debug\net6.0\Bee2116.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowd\Bee2116\Bee2116\Bee2116\obj\Debug\net6.0\ref\Bee2116.dll
