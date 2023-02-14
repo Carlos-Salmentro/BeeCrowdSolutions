@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bee1960Reverse", "Bee1960\Bee1960Reverse.csproj", "{52BE9246-40DE-4EBD-965B-685E94669D5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52BE9246-40DE-4EBD-965B-685E94669D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BE9246-40DE-4EBD-965B-685E94669D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BE9246-40DE-4EBD-965B-685E94669D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BE9246-40DE-4EBD-965B-685E94669D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C29644EE-8D37-4F00-BE9E-F8A0ED015AEB}
+	EndGlobalSection
+EndGlobal
