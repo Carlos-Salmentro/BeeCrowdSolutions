@@ -1,0 +1,15 @@
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\bin\Debug\net6.0\Bee1984.exe
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\bin\Debug\net6.0\Bee1984.deps.json
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\bin\Debug\net6.0\Bee1984.runtimeconfig.json
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\bin\Debug\net6.0\Bee1984.dll
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\bin\Debug\net6.0\Bee1984.pdb
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\obj\Debug\net6.0\Bee1984.csproj.AssemblyReference.cache
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\obj\Debug\net6.0\Bee1984.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\obj\Debug\net6.0\Bee1984.AssemblyInfoInputs.cache
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\obj\Debug\net6.0\Bee1984.AssemblyInfo.cs
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\obj\Debug\net6.0\Bee1984.csproj.CoreCompileInputs.cache
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\obj\Debug\net6.0\Bee1984.dll
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\obj\Debug\net6.0\refint\Bee1984.dll
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\obj\Debug\net6.0\Bee1984.pdb
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\obj\Debug\net6.0\Bee1984.genruntimeconfig.cache
+C:\Users\d815619\Desktop\Bee1960\Bee1984\Bee1984\Bee1984\obj\Debug\net6.0\ref\Bee1984.dll
