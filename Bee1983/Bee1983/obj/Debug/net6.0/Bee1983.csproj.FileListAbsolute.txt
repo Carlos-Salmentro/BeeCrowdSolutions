@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\bin\Debug\net6.0\Bee1983.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\bin\Debug\net6.0\Bee1983.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\bin\Debug\net6.0\Bee1983.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\bin\Debug\net6.0\Bee1983.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\bin\Debug\net6.0\Bee1983.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\obj\Debug\net6.0\Bee1983.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\obj\Debug\net6.0\Bee1983.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\obj\Debug\net6.0\Bee1983.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\obj\Debug\net6.0\Bee1983.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\obj\Debug\net6.0\Bee1983.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\obj\Debug\net6.0\Bee1983.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\obj\Debug\net6.0\refint\Bee1983.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\obj\Debug\net6.0\Bee1983.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\obj\Debug\net6.0\Bee1983.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\BeeCrowdSolutions\Bee2608\Bee1983\Bee1983\obj\Debug\net6.0\ref\Bee1983.dll
