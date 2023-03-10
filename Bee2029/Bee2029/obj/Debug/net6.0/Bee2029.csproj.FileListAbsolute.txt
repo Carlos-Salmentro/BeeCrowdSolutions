@@ -1,0 +1,30 @@
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\bin\Debug\net6.0\Bee2029.exe
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\bin\Debug\net6.0\Bee2029.deps.json
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\bin\Debug\net6.0\Bee2029.runtimeconfig.json
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\bin\Debug\net6.0\Bee2029.dll
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\bin\Debug\net6.0\Bee2029.pdb
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\obj\Debug\net6.0\Bee2029.csproj.AssemblyReference.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\obj\Debug\net6.0\Bee2029.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\obj\Debug\net6.0\Bee2029.AssemblyInfoInputs.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\obj\Debug\net6.0\Bee2029.AssemblyInfo.cs
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\obj\Debug\net6.0\Bee2029.csproj.CoreCompileInputs.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\obj\Debug\net6.0\Bee2029.dll
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\obj\Debug\net6.0\refint\Bee2029.dll
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\obj\Debug\net6.0\Bee2029.pdb
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\obj\Debug\net6.0\Bee2029.genruntimeconfig.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029\Bee2029\obj\Debug\net6.0\ref\Bee2029.dll
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\bin\Debug\net6.0\Bee2029.exe
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\bin\Debug\net6.0\Bee2029.deps.json
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\bin\Debug\net6.0\Bee2029.runtimeconfig.json
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\bin\Debug\net6.0\Bee2029.dll
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\bin\Debug\net6.0\Bee2029.pdb
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\obj\Debug\net6.0\Bee2029.csproj.AssemblyReference.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\obj\Debug\net6.0\Bee2029.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\obj\Debug\net6.0\Bee2029.AssemblyInfoInputs.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\obj\Debug\net6.0\Bee2029.AssemblyInfo.cs
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\obj\Debug\net6.0\Bee2029.csproj.CoreCompileInputs.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\obj\Debug\net6.0\Bee2029.dll
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\obj\Debug\net6.0\refint\Bee2029.dll
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\obj\Debug\net6.0\Bee2029.pdb
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\obj\Debug\net6.0\Bee2029.genruntimeconfig.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee2029 - Copia\Bee2029\obj\Debug\net6.0\ref\Bee2029.dll
