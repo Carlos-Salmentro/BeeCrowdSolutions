@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\bin\Debug\net6.0\Bee1059.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\bin\Debug\net6.0\Bee1059.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\bin\Debug\net6.0\Bee1059.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\bin\Debug\net6.0\Bee1059.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\bin\Debug\net6.0\Bee1059.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\obj\Debug\net6.0\refint\Bee1059.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\obj\Debug\net6.0\Bee1059.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Arquivos\Programação\Solucoes\ToGO\Bee1059\Bee1059\obj\Debug\net6.0\ref\Bee1059.dll
