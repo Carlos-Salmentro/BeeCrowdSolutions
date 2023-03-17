@@ -1,0 +1,15 @@
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\bin\Debug\net6.0\Bee1180.exe
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\bin\Debug\net6.0\Bee1180.deps.json
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\bin\Debug\net6.0\Bee1180.runtimeconfig.json
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\bin\Debug\net6.0\Bee1180.dll
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\bin\Debug\net6.0\Bee1180.pdb
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\obj\Debug\net6.0\Bee1180.csproj.AssemblyReference.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\obj\Debug\net6.0\Bee1180.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\obj\Debug\net6.0\Bee1180.AssemblyInfoInputs.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\obj\Debug\net6.0\Bee1180.AssemblyInfo.cs
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\obj\Debug\net6.0\Bee1180.csproj.CoreCompileInputs.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\obj\Debug\net6.0\Bee1180.dll
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\obj\Debug\net6.0\refint\Bee1180.dll
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\obj\Debug\net6.0\Bee1180.pdb
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\obj\Debug\net6.0\Bee1180.genruntimeconfig.cache
+C:\Users\d815619\Desktop\Bee\BeeToDo\Bee1180\Bee1180\obj\Debug\net6.0\ref\Bee1180.dll
